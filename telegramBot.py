@@ -1,4 +1,4 @@
-from utils import * 
+from utils import
 from telebot import TeleBot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import logging
